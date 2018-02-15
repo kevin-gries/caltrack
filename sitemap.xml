@@ -4,7 +4,7 @@
     
     <url>
      <loc>http://docs.caltrack.org/</loc>
-     <lastmod>2018-02-13</lastmod>
+     <lastmod>2018-02-15</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -12,32 +12,32 @@
     
         
     <url>
-     <loc>http://docs.caltrack.org/data-sources/v1.0/README/</loc>
-     <lastmod>2018-02-13</lastmod>
+     <loc>http://docs.caltrack.org/v1.0/data-sources/README/</loc>
+     <lastmod>2018-02-15</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>http://docs.caltrack.org/data-prep/v1.0/README/</loc>
-     <lastmod>2018-02-13</lastmod>
+     <loc>http://docs.caltrack.org/v1.0/data-prep/README/</loc>
+     <lastmod>2018-02-15</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>http://docs.caltrack.org/savings-calculations/v1.0/monthly/README/</loc>
-     <lastmod>2018-02-13</lastmod>
+     <loc>http://docs.caltrack.org/v1.0/savings-calculations/monthly/README/</loc>
+     <lastmod>2018-02-15</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>http://docs.caltrack.org/savings-calculations/v1.0/daily/README/</loc>
-     <lastmod>2018-02-13</lastmod>
+     <loc>http://docs.caltrack.org/v1.0/savings-calculations/daily/README/</loc>
+     <lastmod>2018-02-15</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>http://docs.caltrack.org/aggregation/v1.0/README/</loc>
-     <lastmod>2018-02-13</lastmod>
+     <loc>http://docs.caltrack.org/v1.0/aggregation/README/</loc>
+     <lastmod>2018-02-15</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
